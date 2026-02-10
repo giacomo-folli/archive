@@ -1,5 +1,6 @@
 # Blog Posts
 
+- [now](now.md) (2026-02-10)
 - [Why and how to write things on the Internet](why-and-how-to-write-things-on-the-internet.md) (2026-02-06)
 - [A rant against the smooth life (~kinda)](a-rant-against-the-smooth-life.md) (2026-02-02)
 - [On coding, ego and attention](on-coding-ego-and-attention.md) (2026-01-31)
@@ -18,6 +19,6 @@
 - [TDD](tdd.md) (2025-01-13)  - `coding`
 
 ---
-**Total posts:** 16
-**Published:** 16
+**Total posts:** 17
+**Published:** 17
 **Drafts:** 0
